@@ -1,1 +1,4 @@
-duy: Duy
+product:
+  discount_type:
+  - percent
+  - amount
