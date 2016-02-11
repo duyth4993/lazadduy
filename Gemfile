@@ -16,6 +16,7 @@ gem "sdoc", "~> 0.4.0", group: :doc
 gem "config"
 gem "devise"
 gem "cancancan", "~> 1.10"
+gem "rails_admin"
 
 group :development, :test do
   gem "byebug", "3.4.0"
